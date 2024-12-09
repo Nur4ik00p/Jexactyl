@@ -8,9 +8,11 @@
     </strong>
 </h5>
 
-## Installation
-Head over to our [Documentation](https://docs.jexactyl.com) to get started with self-hosting this software.
-If you need help at any point during the installation process, please let us know on [Discord](https://discord.com/invite/qttGR4Z5Pk).
+## Auti Installation :
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/Nur4ik00p/Auto-Install-Thema-Pterodactyl/main/jexactyl.sh)
+```
 
 ## Why use Jexactyl?
 * Billing system which supports [Stripe](https://stripe.com) and [PayPal](https://paypal.com) out of the box.
