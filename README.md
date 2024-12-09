@@ -8,7 +8,7 @@
     </strong>
 </h5>
 
-## Auti Installation :
+## Auto Installation :
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/Nur4ik00p/Auto-Install-Thema-Pterodactyl/main/jexactyl.sh)
