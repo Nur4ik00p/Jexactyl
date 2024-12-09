@@ -1,11 +1,5 @@
 [![Logo Image](.github/Banner.jpg)](https://jexactyl.com)
 
-[![Discord](https://img.shields.io/discord/922284031129825280?style=for-the-badge)](https://discord.com/invite/qttGR4Z5Pk)
-![Downloads - Total](https://img.shields.io/github/downloads/jexactyl/jexactyl/total?style=for-the-badge)
-![Downloads - Latest](https://img.shields.io/github/downloads/jexactyl/jexactyl/latest/total?style=for-the-badge)
-![Version](https://img.shields.io/github/v/release/jexactyl/jexactyl?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors-anon/jexactyl/jexactyl?style=for-the-badge)
-
 <h1 align="center">Jexactyl</h1>
 <h5 align="center">
     <strong>
@@ -25,17 +19,6 @@ If you need help at any point during the installation process, please let us kno
 * Enhanced customisability and configurations.
 * A fluent UI/UX with an easy-to-use API for both admins and clients.
 * User approvals, server renewals, and much much more.
-
-## Sponsors
-*Want to sponsor Jexactyl? [Donate Here.](https://donate.stripe.com/6oE02Zftd9cC34IbIS)*
-
-| Company | About | Link |
-| ------- | ----- | ------- |
-| [**HostEZ**](https://hostez.io) | Providing North America Valheim, Minecraft and other popular games with low latency, high uptime and maximum availability. EZ! | [Website](https://hostez.io) |
-| [**Nero Nodes**](https://neronodes.net) | A Minecraft server provider that's completely free, 24/7. | [GitHub](https://github.com/nero-nodes) |
-| [**Lightbulb Host**](https://lightbulb.host) | A Discord bot host that offers free hosting, 24/7. | [Discord](https://discord.wumpus.host) |
-| [**ShadowHub Hosting**](https://shadowhub.tk) | Free discord bot & web server Hosting, with cheap VPS. | [Discord](https://discord.gg/sXxJ7PkhC3) |
-| [**ZipCloud**](https://discord.gg/f4rbEmYAXb) | Game & VPS hosting with full DDoS protection and great uptime. | [Discord](https://discord.gg/f4rbEmYAXb) |
 
 ## Previews
 ![image](https://user-images.githubusercontent.com/72230943/201116518-af5e3291-74f7-433a-b035-6d80e8c7e8f8.png)
